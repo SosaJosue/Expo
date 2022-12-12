@@ -1,0 +1,15 @@
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\bin\Debug\net6.0\Decorator_codigo.exe
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\bin\Debug\net6.0\Decorator_codigo.deps.json
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\bin\Debug\net6.0\Decorator_codigo.runtimeconfig.json
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\bin\Debug\net6.0\Decorator_codigo.dll
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\bin\Debug\net6.0\Decorator_codigo.pdb
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.csproj.AssemblyReference.cache
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.AssemblyInfoInputs.cache
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.AssemblyInfo.cs
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.csproj.CoreCompileInputs.cache
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.dll
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\refint\Decorator_codigo.dll
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.pdb
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\Decorator_codigo.genruntimeconfig.cache
+C:\Users\Josue\OneDrive\Escritorio\Decorator_codigo\obj\Debug\net6.0\ref\Decorator_codigo.dll
